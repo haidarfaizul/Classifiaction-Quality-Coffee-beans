@@ -129,7 +129,7 @@ pdm init
 pdm install
 ```
 
-### 3. Pulihkan File Model (Penting ⚠️)
+### 3. Struktur FIle
 
 ```text
 /Classifiaction-Quality-Coffee-beans
