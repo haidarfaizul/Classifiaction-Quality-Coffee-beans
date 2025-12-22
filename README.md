@@ -132,7 +132,7 @@ pdm install
 ### 3. Pulihkan File Model (Penting ⚠️)
 
 ```text
-/Smart-Roastery
+/Classifiaction-Quality-Coffee-beans
 ├── app.py
 ├── pyproject.toml
 └── src/
