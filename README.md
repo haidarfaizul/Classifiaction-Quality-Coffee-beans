@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ SMART ROASTERY: SISTEM KONTROL KUALITAS
+# ☕ SMART CONTROL: SISTEM KONTROL KUALITAS
 
 ### _Kerangka Perbandingan: Custom CNN vs. MobileNetV2 vs. ResNet50V2_
 
@@ -16,9 +16,9 @@
 
 ## 📖 Deskripsi Proyek
 
-**Smart Roastery** adalah kerangka kerja visi komputer yang dirancang untuk mengotomatisasi proses kontrol kualitas pada produksi kopi. Dalam ranah pertanian presisi dan teknologi pangan, kemampuan untuk mengklasifikasikan kualitas biji dengan cepat sangat penting untuk menjaga standar produk dan meningkatkan nilai ekspor.
+**Smart Control** adalah kerangka kerja visi komputer yang dirancang untuk mengotomatisasi proses kontrol kualitas pada produksi kopi. Dalam ranah pertanian presisi dan teknologi pangan, kemampuan untuk mengklasifikasikan kualitas biji dengan cepat sangat penting untuk menjaga standar produk dan meningkatkan nilai ekspor.
 
-Proyek ini menerapkan pendekatan multi-arsitektur untuk membandingkan performa **Custom Convolutional Neural Network (CNN)** yang dibangun dari nol dengan arsitektur Transfer Learning mutakhir yaitu **MobileNetV2** dan **ResNet50V2**. Studi ini berfokus pada pencarian kompromi terbaik antara akurasi klasifikasi, stabilitas model, dan latensi inferensi untuk penerapan pada dashboard roastery.
+Proyek ini menerapkan pendekatan multi-arsitektur untuk membandingkan performa **Custom Convolutional Neural Network (CNN)** yang dibangun dari nol dengan arsitektur Transfer Learning mutakhir yaitu **MobileNetV2** dan **ResNet50V2**. Studi ini berfokus pada pencarian kompromi terbaik antara akurasi klasifikasi, stabilitas model, dan latensi inferensi untuk penerapan pada dashboard Quality Control.
 
 ---
 
