@@ -10,7 +10,7 @@
 ![Manager](https://img.shields.io/badge/Dependency-PDM-purple?style=for-the-badge&logo=pdm)
 ![Dataset](<https://img.shields.io/badge/Dataset-CoffeeBean_USK_(Kaggle)-20BEFF?style=for-the-badge&logo=kaggle>)
 
-**[Metodologi](#-metodologi)** • **[Benchmark](#-hasil-perbandingan)** • **[Penilaian](#-penilaian-laboratorium-umm)** • **[Instalasi](#-instalasi--setup-pdm)**
+**[Metodologi](#-metodologi)** • **[Benchmark](#-hasil-perbandingan)** • **[Instalasi](#-instalasi--setup-pdm)**
 
 </div>
 
